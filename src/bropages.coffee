@@ -1,15 +1,13 @@
 # Description:
-#   Get today's stews from Hos Frank.
+#   Get information about a command from Bropages.org
 #
 # Configuration:
 #   None
 #
 # Dependencies:
-#   "cheerio": "1.13.x"
-#   "iconv-lite": "*"
 #
 # Commands:
-#   hubot hos frank|franks|gryta|grytor - Fetches today's stews from Hos Frank for you
+#   hubot rtfm|man|bropages <command> - Get information about a command from bropages.org
 #
 # Author:
 #   Nevon
